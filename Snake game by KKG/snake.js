@@ -149,6 +149,6 @@ function draw(){
     ctx.fillText(score,2*box,1.6*box);
 }
 
-// after 100ms call it a draw..
+// after 100s call it a draw..
 
 let game = setInterval(draw,100);
