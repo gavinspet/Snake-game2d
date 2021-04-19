@@ -13,4 +13,4 @@ Project Files :
 
 Tools/Languages used : HTML, CSS and Javascript
 
-![screenshot1](Screenshot from 2021-04-19 12-51-19.png)
+![Screenshot1](Screenshot from 2021-04-19 12-51-19.png)
