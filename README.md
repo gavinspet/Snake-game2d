@@ -12,4 +12,5 @@ Project Files :
 6. "styles.css" that contains all the css codes
 
 Tools/Languages used : HTML, CSS and Javascript
-<img scr= "https://github.com/lolwhocares/Snake-game2d/blob/master/Screenshot%20from%202021-04-19%2012-51-19.png">
+
+![screenshot1](Screenshot from 2021-04-19 12-51-19.png)
