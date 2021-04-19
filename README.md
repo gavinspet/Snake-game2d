@@ -13,4 +13,4 @@ Project Files :
 
 Tools/Languages used : HTML, CSS and Javascript
 
-![Screenshot1](Screenshot from 2021-04-19 12-51-19.png)
+![image](https://github.com/lolwhocares/Snake-game2d/blob/master/Screenshot%20from%202021-04-19%2012-51-19.png)
