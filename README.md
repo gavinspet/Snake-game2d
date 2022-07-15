@@ -13,6 +13,6 @@ Project Files :
 
 Tools/Languages used : HTML, CSS and Javascript
 
-The game can be played at : https://classic-arcade-snakegame.herokuapp.com/
+This game can be played at : https://classic-arcade-snakegame.herokuapp.com/
 
 ![image](https://github.com/lolwhocares/Snake-game2d/blob/master/Screenshot%20from%202021-04-19%2012-51-19.png)
