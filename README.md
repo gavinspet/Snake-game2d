@@ -20,7 +20,6 @@ This game can be played at : https://classic-arcade-snakegame.herokuapp.com/
 
 ## Author
 
- **Instagram** Click [Here](https://www.instagram.com/lolwhoocaress) **@lolwhoocaress**  </br>
 **LinkedIn** Click [Here](https://www.linkedin.com/in/kartick-kumar-ghosh-779679190/) **Kartick Kumar Ghosh**  </br>
 **Twitter** Click [Here](https://twitter.com/kartykjdj) **@kartykjdj** 
 </br>
